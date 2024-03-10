@@ -64,7 +64,7 @@ The elements of test_data are as follows:
 The evaluation is based on the following four factors and is scored on a 10-point scale.
     - 正しい敬語の使用: Out of 3 points . Evaluation of appropriate use of honorifics.
     - 相手への敬意: Out of 2 points . Evaluation of the respect shown to the customer.
-    - 状況への適応: Score out of 3 . Evaluation of whether the response is appropriate to the customer's needs and situation.
+    - 状況への適応: Out of 3 points . Evaluation of whether the response is appropriate to the customer's needs and situation.
     - 発言の簡潔さと明確さ: Out of 2 points . Evaluation of whether the response is concise and clearly communicated.
 
 Scores are indicated in the __point__ for each element, and the rationale behind these scores is explained in __explanation__. Additionally, "店員の発言内容の点数" represents the total score of these four elements.
